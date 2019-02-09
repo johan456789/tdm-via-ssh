@@ -1,5 +1,5 @@
 # end.sh 
-/usr/local/bin/blueutil -p 0 
+/usr/local/bin/blueutil -p 1 
 echo "--- iMac Bluetooth on..."
 echo "Connecting Bluetooth keyboard..."
 sleep 7

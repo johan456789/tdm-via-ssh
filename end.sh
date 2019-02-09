@@ -1,7 +1,8 @@
 # end.sh 
-blueutil on
+/usr/local/bin/blueutil -p 0 
 echo "--- iMac Bluetooth on..."
-sleep 5
+echo "Connecting Bluetooth keyboard..."
+sleep 7
 echo "--- Target Display Mode command..."
 osascript -e 'tell application "System Events" to key code 144 using command down'
 echo "--- Target Display Mode Ended......."

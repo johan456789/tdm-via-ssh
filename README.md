@@ -20,7 +20,7 @@ Slightly modified from http://aaronrutley.com/target-display-mode-via-ssh/
 * create alias (by pasting into ~/.bash_profile)
 
   - username: the user you're logging into iMac
-  - hostname: the iMac's name (run `hostname` in Mac's terminal to get it)
+  - hostname: the iMac's name (run `hostname` in iMac's terminal to get it)
   - after adding the below code, `source ~/.bash_profile` to take effect
 
   ```bash

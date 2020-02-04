@@ -7,7 +7,7 @@ Slightly modified from http://aaronrutley.com/target-display-mode-via-ssh/
 
 ### iMac:
 
-1. Move all files in ~/tdm/
+1. Move all files to ~/tdm/
 
 2.  `brew install blueutil`
 
@@ -62,7 +62,7 @@ Slightly modified from http://aaronrutley.com/target-display-mode-via-ssh/
   ssh-keygen
   scp ~/.ssh/id_rsa.pub username@hostname.local:~/
   ssh username@hostname.local
-  mkdir .ssh
+  mkdir .ssh # skip this if you already have the folder
   cat id_rsa.pub >> ~/.ssh/authorized_keys
   rm -f id_rsa.pub
   exit

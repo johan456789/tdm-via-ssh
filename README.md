@@ -55,7 +55,7 @@ Slightly modified from http://aaronrutley.com/target-display-mode-via-ssh/
 
 * SSH into iMac without password:
 
-  - Snippet from: https://danielpataki.com/target-display-mode-remotely/
+  - Snippet from: [https://danielpataki.com/target-display-mode-remotely/ (archived)](https://web.archive.org/web/20180815120109/https://danielpataki.com/target-display-mode-remotely/)
 
   ```bash
   # when you issue the following command you'll be asked some questions, keep hitting enter until done.

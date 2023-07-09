@@ -1,7 +1,7 @@
 # tdm-via-ssh
 Target Display Mode via SSH
 
-Slightly modified from http://aaronrutley.com/target-display-mode-via-ssh/
+Slightly modified from [http://aaronrutley.com/target-display-mode-via-ssh/ (archived)](https://web.archive.org/web/20200921050700/http://aaronrutley.com/target-display-mode-via-ssh/)
 
 ## Installation
 
